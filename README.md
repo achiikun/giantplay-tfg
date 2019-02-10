@@ -1,2 +1,2 @@
-# giantplay-tfg
-Final Grade Project
+# Giant Play
+These are the server and client code of my Final Grade Project.
